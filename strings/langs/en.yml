@@ -75,17 +75,17 @@ admin_34 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴇᴇᴋ."
 # Bot 
 
 # Start
-start_1 : "**thiŞ iŞ rēŞŞ໐ ค ŞนpērfคŞt ๓นŞi¢ ๖໐t \n\n  "
+start_1 : "**ᴛʜɪꜱ ɪꜱ ʙᴇʟʟʏ ᴠᴄ ᴘʟᴀʏᴇʀ ᴍᴀᴅᴇ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ \n\n  "
 start_2 : "**¸━━━━━━━━━━━━━━━** \n\n"
-start_3 : "** ♥𝓐𝓝𝓓 𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓝𝓣 𝓑𝓞𝓣♥**\n\n"
-start_4 : "**◦♡ MÄÐÈ †Ö MÄñÄGÈ ♡◦**\n\n"
-start_5 : "**☞𝓐𝓝𝓓**\n\n"
-start_6 : "** ρℓαу мυѕι¢ ιη уσυя gяσυρ ˘◡˘** \n\n"
+start_3 : "** ★彡[ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ʏᴏᴜʀ ᴠᴄ]彡★**\n\n"
+start_4 : "**◦♡ɪ ʜᴀᴠᴇ ᴀᴍᴀᴢɪɴɢ ꜰᴇᴀᴛᴜʀᴇꜱ**\n\n"
+start_5 : "**☞ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ꜰᴇᴀᴛᴜʀᴇ ʙʏ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ★**\n\n"
+start_6 : "**ᴇɴᴊᴏʏ ᴛʜᴇ ᴠᴄ ᴍᴜꜱɪᴄ ᴡɪᴛʜ ʙᴇꜱᴛ Qᴜᴀʟɪᴛʏ˘◡˘** \n\n"
 start_7 : "**❤THAMKUUUU❤**\n\n"
 
 # Help
-help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
-help_2 : "Contact me in PM for help."
+help_1 : "ғɪɴᴅ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ʙᴏᴛ's ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ➤  ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ.\n\n ᴛᴏ ꜰɪɴᴅ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʀᴇꜱꜱ /help"
+help_2 : " ➤ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴍ ꜰᴏʀ ʜᴇʟᴘ."
 
 # Settings
 setting_1 : "⚙️ **◉ᴍᴜsɪᴄ ʙᴏᴛ sᴇᴛᴛɪɴɢs◉**\n\n🖇**💥ɢʀᴏᴜᴘ💥:** {0}\n📌**📌ɢʀᴏᴜᴘ ɪᴅ📌:** `{1}`\n\n⛄️**ᴄʜᴏᴏsᴇ ᴛʜᴇ ꜰᴜɴᴄᴛɪᴏɴ ʙᴜᴛᴛᴏɴs ꜰʀᴏᴍ ʙᴇʟᴏᴡ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴏʀ ᴄʜᴀɴɢᴇ.**"
@@ -144,7 +144,7 @@ cplay_5 : "ᴏɴʟʏ ᴄʜᴀɴɴᴇʟs ᴀʀᴇ sᴜᴘᴘᴏʀᴛᴇᴅ."
 cplay_6 : "ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴛʜᴇ **ᴏᴡɴᴇʀ** ᴏꜰ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ [{0}] ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ɪᴛ ᴡɪᴛʜ ᴛʜɪs ɢʀᴏᴜᴘ.\n**ᴄʜᴀɴɴᴇʟ's ᴏᴡɴᴇʀ:** @{1}\n\nᴀʟᴛᴇʀɴᴀᴛɪᴠᴇʟʏ ʏᴏᴜ ᴄᴀɴ ʟɪɴᴋ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴄᴏɴɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ `/channelplay linked`"
 
 #Play
-play_1 : "ʀᴜᴋᴏ ᴊᴀʀᴀ sᴀʙʀ ᴋʀᴏ ʙᴀᴊᴀ ʀʜᴀ ʜᴜ "
+play_1 : "🍁 ᴡᴀɪᴛ ꜱɪʀ/ᴍᴀᴍ ɪ ᴀᴍ ꜱᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ 🍁 "
 play_2 : "**🏷Channel Play Mode**\n\n🍁 ʀᴜᴋᴏ ᴊᴀʀᴀ sᴀʙʀ ᴋʀᴏ ʙᴀᴊᴀ ʀʜᴀ ʜᴜ  !\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
@@ -227,7 +227,7 @@ song_11 : "ᴜᴘʟᴏᴀᴅɪɴɢ sᴛᴀʀᴛᴇᴅ ʙᴀʙʏ\n\nᴘʟᴇᴀs�
 
 
 # Tools - Queue
-queue_1 : "ʀᴜᴋᴏ ᴊᴀʀᴀ sᴀʙʀ ᴋʀᴏ ʙᴀᴊᴀ ʀʜᴀ ʜᴜ .."
+queue_1 : "🍁 ᴡᴀɪᴛ ꜱɪʀ/ᴍᴀᴍ ɪ ᴀᴍ ꜱᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ 🍁  .."
 queue_2 : "ʏᴀʜᴀ ᴋᴏɪ ɢᴀɴᴀ ʜᴀɪ ʜɪ ɴʜɪ. No tracks found"
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
 queue_4 : "💥 ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ💥 **#{0}\n\n📌 ᴛɪʟᴛʟᴇ:** {1}\n**📌ᴅᴜʀᴀᴛɪᴏɴ📌:** {2}\n**⛄️ᴀᴅᴅᴇᴅ ʙʏ⛄️:** {3}"
