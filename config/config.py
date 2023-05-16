@@ -61,13 +61,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-# Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", None
-)  # Example:- https://t.me/TheYukki
-SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", None
-)  # Example:- https://t.me/YukkiSupport
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ab_sumit")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/lockroom_xD")
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -166,16 +161,16 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/8eb3466b2e2fc39263665.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/b9deac510164a5d997e92.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/2179cf30a470316872d84.jpg",
+    "https://graph.org/file/dd791f9550454a7d93f19.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://graph.org/file/26ee445d24ed8b2cff22e.jpg",
+    "https://graph.org/file/79fbb05b4751269a53a62.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
@@ -200,7 +195,7 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://graph.org/file/c5109fcae0d339bc25d0c.jpg",
+    "https://graph.org/file/cfcd3011c0b3216383f8c.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
@@ -210,7 +205,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://graph.org/file/c5109fcae0d339bc25d0c.jpg",
+    "https://graph.org/file/cfcd3011c0b3216383f8c.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
